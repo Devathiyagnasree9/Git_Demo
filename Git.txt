@@ -1,3 +1,4 @@
 Hands on Git commands
-Test git commands add,commit
+Test git commands add,commit,push code to remote repo.
+Modify code and commit new chnages and push
 
